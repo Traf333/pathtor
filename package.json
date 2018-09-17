@@ -1,0 +1,22 @@
+{
+  "name": "pathtor",
+  "version": "1.0.0",
+  "description": "Fractal test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Traf333/pathtor.git"
+  },
+  "keywords": [
+    "pureJS"
+  ],
+  "author": "Igor Trofimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Traf333/pathtor/issues"
+  },
+  "homepage": "https://github.com/Traf333/pathtor#readme"
+}
