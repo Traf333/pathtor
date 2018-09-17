@@ -36,5 +36,3 @@ const insertTable = data => {
   fragment.append(buildTable(data))
   document.getElementById('main').appendChild(fragment)
 }
-
-module.exports = { buildTable }
