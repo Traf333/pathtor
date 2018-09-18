@@ -10,7 +10,7 @@ Just open in your browser `public/index.html`
 This project has been written by pure js and browser's api. 
 The main idea was to write as minimal lines of code as possible
 
-##Testing
+## Testing
 As this project keeps minimal required code strategy. The test just simply check building the dom elements in correct way
 To run the tests 
 ```
