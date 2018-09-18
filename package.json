@@ -4,7 +4,7 @@
   "description": "Fractal test task",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "node spec/buildDOM.spec.js"
   },
   "repository": {
     "type": "git",

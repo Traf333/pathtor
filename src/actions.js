@@ -37,3 +37,5 @@ const togglePath = (node, id) => {
   selected(id) ? deselectPath(node) : selectPath(node)
   updateURL(id)
 }
+
+module.exports = { selected, subtreeSelected }
